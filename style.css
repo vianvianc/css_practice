@@ -1,0 +1,40 @@
+
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 24px;
+}
+.tiny {
+    font-size: 7px;
+}
+
+.bold {
+    font-weight: bold;
+}
+ .centered {
+    text-align: center;
+}
+
+.font {
+    font-family: monospace;
+}
+
+.multiple {
+    font-weight: bold;
+    font-size: 24px;
+    color: orange;
+}
