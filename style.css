@@ -38,3 +38,13 @@ h1 {
     font-size: 24px;
     color: orange;
 }
+.styledFont {
+    color: green;
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: 8px;
+    border-color: orange;
+
+}
